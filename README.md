@@ -23,12 +23,12 @@ This collaborative project explores the future of Artificial Intelligence throug
 
 | Part | Description | Contributor |
 |------|-------------|-------------|
-| **Part 1** | Theoretical Analysis | Team Member 1 |
-| **Part 2 - Task 1** | Edge AI Prototype (Waste Classification) | **You** |
-| **Part 2 - Task 2** | AI-IoT Smart Farming System | Team Member 2 |
-| **Part 2 - Task 3** | Ethics in Personalized Medicine | Team Member 3 |
-| **Part 3** | AI 2030 Proposal | Team Member 1 |
-| **Bonus** | Quantum AI Simulation | Team Member 2 |
+| **Part 1** | Theoretical Analysis | Niniwe Xaka |
+| **Part 2 - Task 1** | Edge AI Prototype (Waste Classification) | Moleboheng Madela |
+| **Part 2 - Task 2** | AI-IoT Smart Farming System | Veronica Moshesha |
+| **Part 2 - Task 3** | Ethics in Personalized Medicine | Veronica Moshesha |
+| **Part 3** | AI 2030 Proposal | Niniwe Xaka |
+| **Bonus** | Quantum AI Simulation | Niniwe Xaka |
 
 ---
 
